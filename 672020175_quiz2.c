@@ -4,7 +4,7 @@
 #include <windows.h>
 //compiler vscd
 void header(){
-    printf("\n\n\t\t=====> Program Cek Kelulusan oleh Ken Foster Morintoh_672020175 <=====\n");
+        printf("\n\n\t\t=====> Program Cek Kelulusan oleh Ken Foster Morintoh_672020175 <=====\n");
     printf("\t\t\t=====>  AST. Dasar Dasar Pemograman(vincent, Hosea) <=====\n\n");
 }
 void allrightreserved(){
